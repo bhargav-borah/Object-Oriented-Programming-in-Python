@@ -1,0 +1,4 @@
+1. Encapsulation is the process of restricting the access, in some way, of certain attributes of a class
+2. Abstraction is the method of OOP in which only the relevant attributes are shown and others are hidden
+3. Inheritance is a mechanism which lets us use methods (and variables) across classes
+4. Polymorphism refers to the use of a single type entity to represent different types of in different scenarios
